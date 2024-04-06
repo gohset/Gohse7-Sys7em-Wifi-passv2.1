@@ -1,0 +1,16 @@
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Claves_Wifi\Claves_Wifi\bin\Debug\Claves_Wifi.exe.config
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Claves_Wifi\Claves_Wifi\bin\Debug\Claves_Wifi.exe
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Claves_Wifi\Claves_Wifi\bin\Debug\Claves_Wifi.pdb
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Claves_Wifi\Claves_Wifi\obj\Debug\Claves_Wifi.csproj.AssemblyReference.cache
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Claves_Wifi\Claves_Wifi\obj\Debug\Claves_Wifi.Form1.resources
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Claves_Wifi\Claves_Wifi\obj\Debug\Claves_Wifi.Inicio.resources
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Claves_Wifi\Claves_Wifi\obj\Debug\Claves_Wifi.Properties.Resources.resources
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Claves_Wifi\Claves_Wifi\obj\Debug\Claves_Wifi.csproj.GenerateResource.cache
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Claves_Wifi\Claves_Wifi\obj\Debug\Claves_Wifi.csproj.CoreCompileInputs.cache
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Claves_Wifi\Claves_Wifi\obj\Debug\Claves_Wifi.exe
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Claves_Wifi\Claves_Wifi\obj\Debug\Claves_Wifi.pdb
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Claves_Wifi\Claves_Wifi\bin\Debug\Claves_Wifi.exe.CodeAnalysisLog.xml
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Claves_Wifi\Claves_Wifi\bin\Debug\Claves_Wifi.exe.lastcodeanalysissucceeded
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Claves_Wifi\Claves_Wifi\obj\Debug\Claves_Wifi.frm_logo.resources
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Claves_Wifi\Claves_Wifi\obj\Debug\Claves_Wifi.frm_perfiles.resources
+E:\VISUAL STUDIO PROGRAMACION IV\1Visual Studio Community 2022\Claves_Wifi\Claves_Wifi\obj\Debug\Claves_Wifi.frm_buscar.resources
